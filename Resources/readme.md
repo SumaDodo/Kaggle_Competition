@@ -27,5 +27,5 @@ To train the first LSTM, we feed in the previous measurements and use the ground
 
 **References:**  
 1. [RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
-2. [Unsupervised learning in LSTM Recurrent Neural Network](ftp://ftp.idsia.ch/pub/juergen/icann2001unsup.pdf)
+2. [Unsupervised learning in LSTM Recurrent Neural Network](ftp://ftp.idsia.ch/pub/juergen/icann2001unsup.pdf) 
 3. [Target Tracking with Kalman Filter, KNN and LSTM](http://cs229.stanford.edu/proj2016/report/IterKuckZhuang-TargetTrackingwithKalmanFilteringKNNandLSTMs-report.pdf)
