@@ -25,6 +25,8 @@ To train the first LSTM, we feed in the previous measurements and use the ground
 
 **Note:** If the momentum is high then, the particle travels th straight path. If less then helical path.  
 
+A very good approach will be to use/ apply decoupled extended Kalman Filter training algorithm to the LSTM architecture. Please find the paper [here](https://github.com/SumaDodo/Kaggle_Competition/blob/master/Resources/lstm%20with%20dekf.pdf)
+
 **References:**  
 1. [RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
 2. [Unsupervised learning in LSTM Recurrent Neural Network](ftp://ftp.idsia.ch/pub/juergen/icann2001unsup.pdf) 
