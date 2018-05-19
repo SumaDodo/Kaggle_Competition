@@ -5,7 +5,7 @@ RNNs are called recurrent because they perform the same task for every element o
 RNN have memory which captures information about what has been calculated so far.
 
 **Computation in RNN**  
-1. x<sub>t</sub> is the input at time step t
+1. x<sub>t</sub> is the input at time step t.
 2. s<sub>t</sub> is the hidden state at time step t. It is calculated based on the previous hidden states and the current input.
 3. o<sub>t</sub> is the output.
 
