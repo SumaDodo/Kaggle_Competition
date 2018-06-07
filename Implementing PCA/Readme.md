@@ -12,6 +12,22 @@ Noted Terms:
 2. Multiple Discriminant Analysis
 3. Linear Transformation Methods
 ```
+**PCA vs MDA**  
+
+|PCA|MDA|
+|---|---|
+|Projecting entire set of data onto a different subspace| determine a suitable subspace to distinguish between patterns that belong to different classes|
+|trying to find the axes with maximum variances where the data is most spread|additionally maximizing the spread between classes|
+
+**What we actually do with the data at hand?**
+- We calculate the eigen vectors from the data and collect them in the scatter matrix.
+- Each of the eigen vector is associated with the eigen value. We observe these eigen values. 
+- Eigen values tell about the length or magnitude of the eigen vectors. 
+- If the eigen values associated with the eigen vectors have relatively similar magnitude that indicates that they are in the same and good subspace.
+- If some of the eigen values are much higher then we must keep the ones with the bigger eigen values as these contain more information about the dataset.
+- If the eigen value is less or near to zero are less informative.
+
+
 
 **References:**  
 1. [Implementing PCA](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
