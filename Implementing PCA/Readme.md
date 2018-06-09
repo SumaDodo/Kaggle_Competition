@@ -27,7 +27,13 @@ Noted Terms:
 - If some of the eigen values are much higher then we must keep the ones with the bigger eigen values as these contain more information about the dataset.
 - If the eigen value is less or near to zero are less informative.
 
-
+**Steps for PCA**  
+1. Consider the dataset with d-dimensional samples.
+2. Compute d-dimensional mean vector.
+3. Compute the scatter matrix.
+4. Compute Eigen vectors and corresponding eigen values.
+5. sorting of the eigen values.
+6. use this new eigen value matrix to transform the values to a new subspace.
 
 **References:**  
 1. [Implementing PCA](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
