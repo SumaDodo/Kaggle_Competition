@@ -1,6 +1,9 @@
 This contains the implementation of PCA in Python. 
 
-**Why PCA?**
+**Why PCA?**  
+```
+Too much of anything is not good for anything
+```
 - The answer to this question is primarily based on the fact that the data set at our disposal has vast amount of features associated with it and it is very important to understand and figure out which features are more important than others. This is an attempt to get closer to answering this question.
 
 ```
