@@ -38,5 +38,6 @@ Noted Terms:
 5. sorting of the eigen values.
 6. use this new eigen value matrix to transform the values to a new subspace.
 
+**Note:** Eigen vectors and eigen values form the core of PCA. While eigen vectors define the directions of the new feature space, eigen values define their magnitude.  
 **References:**  
 1. [Implementing PCA](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
