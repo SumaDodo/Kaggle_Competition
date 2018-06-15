@@ -39,5 +39,11 @@ Noted Terms:
 6. use this new eigen value matrix to transform the values to a new subspace.
 
 **Note:** Eigen vectors and eigen values form the core of PCA. While eigen vectors define the directions of the new feature space, eigen values define their magnitude.  
+
+---
+**Results**  
+1. Upon implementing PCA Analysis for the Hits dataset, we observe that all the four principal components have the information. Thus none of them can be dropped.  
+
+
 **References:**  
 1. [Implementing PCA](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
