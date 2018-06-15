@@ -44,7 +44,7 @@ Noted Terms:
 **Results**  
 1. Upon implementing PCA Analysis for the Hits dataset, we observe that all the four principal components have the information. Thus none of them can be dropped.  
 
-![PCA_hits_dataset](https://github.com/SumaDodo/Kaggle_Competition)
+![PCA_hits_dataset](https://github.com/SumaDodo/Kaggle_Competition/blob/master/Implementing%20PCA/PCA_hits_dataset.png)
 
 **References:**  
 1. [Implementing PCA](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
