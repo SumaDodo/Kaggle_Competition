@@ -9,7 +9,7 @@ The issue page keeps track of the issues that we are working on and a list of op
 Dataset is greater than 200GB and is split up into smaller ones. 
 Use spark for training and testing 
 
-Tracking algorithms
+**Tracking algorithms**
 
 Utilities for the data set provided by the organizers : [Utilities](https://github.com/LAL/trackml-library) 
 
